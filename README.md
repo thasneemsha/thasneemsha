@@ -1,11 +1,11 @@
-✦ Thasneem Mohamed
+
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:6C63FF,50:00C2FF,75:00D084,100:FFB703&height=200&section=header&text=Thasneem%20Mohamed&fontSize=42&fontColor=ffffff" />🎓 Senior CompSci Student @ Queens College (CUNY)
 
 ⚙️ Backend Systems • APIs • Data Engineering • UX-Aware Development
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+API+Architect;Data+Mining+%7C+Simulation+Developer;UX-aware+System+Designer;Building+real-world+software+systems" /></div>
----
+
 
 <div align="center">     
 
@@ -32,7 +32,7 @@ I focus on turning complex logic into clean, usable, real-world systems.
 </div>
 ---
 
-✦ Project Portfolio (Visual Cards)
+✦ Project Portfolio
 
 🎮 API Mashup Engine
 
@@ -89,7 +89,7 @@ I focus on turning complex logic into clean, usable, real-world systems.
 
 ---
 
-✦ GitHub Analytics (Dashboard Style)
+✦ GitHub Analytics 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thasneemsha&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasneemsha&layout=compact&theme=tokyonight&hide_border=true" height="170"/></div>
