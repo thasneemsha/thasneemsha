@@ -1,269 +1,120 @@
-Hi, I'm Thasneem Mohamed 👋
+✦ Thasneem Mohamed
 
-Senior Computer Science Student @ Queens College (CUNY)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:6C63FF,50:00C2FF,75:00D084,100:FFB703&height=200&section=header&text=Thasneem%20Mohamed&fontSize=42&fontColor=ffffff" />🎓 Senior Computer Science Student @ Queens College (CUNY)
 
-Backend Developer • API Integrations • Data & Systems Projects
+⚙️ Backend Systems • APIs • Data Engineering • UX-Aware Development
 
-I’m a first-generation Indian American Computer Science student passionate about building software that solves real-world problems.
-
-My projects range from backend API systems and data mining applications to fitness platforms, accessibility-focused web apps, and simulation-based programming.
-
-I enjoy turning ideas into practical applications with clean logic, scalable structure, and user-focused design.
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+API+Architect;Data+Mining+%7C+Simulation+Developer;UX-aware+System+Designer;Building+real-world+software+systems" /></div>
 ---
 
-🚀 What I’m Building
+✦ Identity Stack (Visual Tags)
 
-🎮 API & Backend Systems
+<div align="center">     
 
-Building synchronous and asynchronous API mashups using:
-
-Node.js
-
-REST APIs
-
-OAuth 2.0
-
-JSON-based integrations
-
-Third-party services
-
-
-Current work includes projects integrating:
-
-Twitch API
-
-RAWG API
-
-YouTube API
-
-
-
+</div>
 ---
 
-📊 Data Mining & Analytics
+✦ Tech Logos (Core Stack)
 
-Working with real-world datasets to discover patterns and insights through:
-
-Statistical analysis
-
-Pattern discovery
-
-Data preprocessing
-
-Predictive analysis
-
-Glucose trend analysis
-
-
-Projects:
-
-Association Pattern Discovery
-
-Data Glucose Prediction
-
-Glucose Prediction
-
-
-
+<div align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,nodejs,git,mysql" /></div>
 ---
 
-💻 Systems & Simulation Programming
+✦ About Me (Profile Card Style)
 
-Developing simulation-focused programs in C++ involving:
+<div style="padding:16px;border-radius:12px;background:linear-gradient(135deg,#0f0f0f,#1a1a1a);border:1px solid #333;">I am a first-generation Indian American Computer Science student who builds software at the intersection of:
 
-Queue simulations
+▸ backend engineering
+▸ data systems
+▸ API architecture
+▸ human-centered UX design
 
-Monte Carlo methods
+I focus on turning complex logic into clean, usable, real-world systems.
 
-Random number generation
-
-Statistical modeling
-
-Performance analysis
-
-
-
+</div>
 ---
 
-🌍 User-Focused Applications
+✦ Project Portfolio (Visual Cards)
 
-I enjoy building software that improves accessibility and personalization.
+🎮 API Mashup Engine
 
-Some projects include:
+<div style="border-left:4px solid #00C2FF;padding:10px;background:#0f0f0f;border-radius:8px;"><img src="https://img.shields.io/badge/Node.js-API_System-00C2FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Twitch-Integration-9146FF?style=flat-square" />
+<img src="https://img.shields.io/badge/RAWG-Gaming_Data-00D084?style=flat-square" />
+<img src="https://img.shields.io/badge/YouTube-API-FF0000?style=flat-square" />Synchronous API mashup system combining gaming + streaming + video data.
+
+</div>
+---
+
+📊 Data Mining Systems
+
+<div style="border-left:4px solid #FF6B6B;padding:10px;background:#0f0f0f;border-radius:8px;"><img src="https://img.shields.io/badge/Pattern_Mining-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Prediction_Models-9B5DE5?style=flat-square" />
+<img src="https://img.shields.io/badge/Statistics-00D084?style=flat-square" />Association pattern discovery + glucose prediction systems.
+
+</div>
+---
 
 📖 QuranWeb
 
-A multilingual, elderly-friendly Quran platform focused on:
+<div style="border-left:4px solid #6C63FF;padding:10px;background:#0f0f0f;border-radius:8px;"><img src="https://img.shields.io/badge/Accessibility-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Multilingual-00C2FF?style=flat-square" />
+<img src="https://img.shields.io/badge/UX_Design-FFB703?style=flat-square" />Elderly-friendly Quran platform focused on reading + audio + learning UX.
 
-readability
+</div>
+---
 
-listening support
+🧴 Skincare Intelligence System
 
-pronunciation learning
+<div style="border-left:4px solid #00D084;padding:10px;background:#0f0f0f;border-radius:8px;"><img src="https://img.shields.io/badge/Personalization-00D084?style=flat-square" />
+<img src="https://img.shields.io/badge/Privacy_First-FFB703?style=flat-square" />
+<img src="https://img.shields.io/badge/Recommendation_AI-00C2FF?style=flat-square" />Lifestyle-based skincare recommendation engine.
 
-accessibility for senior users
+</div>
+---
 
+🏋️ Fitness Ecosystem
 
-🧴 for-you-Skin-care-baddies
+<div style="border-left:4px solid #FFB703;padding:10px;background:#0f0f0f;border-radius:8px;"><img src="https://img.shields.io/badge/Health_Tech-FFB703?style=flat-square" />
+<img src="https://img.shields.io/badge/Tracking-00C2FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Visualization-6C63FF?style=flat-square" />QFit + QC Remote Gym Tracker + Personal tracking systems.
 
-A privacy-first skincare recommendation platform delivering personalized skincare suggestions based on:
+</div>
+---
 
-skin type
+✦ Simulation Systems
 
-routines
-
-lifestyle preferences
-
-
-🏋️ Fitness Platforms
-
-Projects focused on health and progress tracking:
-
-QFit Fitness Tracker
-
-QC Remote Gym Tracker
-
-Personal Tracker
-
+<div align="center"><img src="https://img.shields.io/badge/Queue_Simulation-9B5DE5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Monte_Carlo-00C2FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Probability_Systems-00D084?style=for-the-badge" /></div>M/M/1 Queue • Random Processes • Statistical Modeling
 
 
 ---
 
-🛠 Tech Stack
+✦ GitHub Analytics (Dashboard Style)
 
-Languages
-
-C++
-
-JavaScript
-
-Python
-
-Java
-
-SQL
-
-HTML/CSS
-
-
-Backend & APIs
-
-Node.js
-
-Express.js
-
-REST APIs
-
-OAuth 2.0
-
-Async Programming
-
-
-Data & Analytics
-
-Data Mining
-
-Pattern Discovery
-
-Predictive Modeling
-
-Statistical Analysis
-
-
-Tools
-
-Git & GitHub
-
-Postman
-
-VS Code
-
-MySQL
-
-
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thasneemsha&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasneemsha&layout=compact&theme=tokyonight&hide_border=true" height="170"/></div>
 ---
 
-📌 Featured Repositories
+✦ Design Philosophy
 
-🎮 355-FinalProject
-
-Synchronous API mashup application built entirely with Node.js core modules.
-
-📊 Association-pattern-Discovery
-
-Educational statistical pattern discovery system for analyzing:
-
-2nd-order patterns
-
-3rd-order patterns
-
-4th-order patterns
-
-
-🏋️ QFit-Fitness-Tracker
-
-Fitness tracking web application for workout and progress management.
-
-📖 QuranWeb
-
-Accessibility-focused Quran web application designed for elderly-friendly interaction.
-
-
+<div align="center"><img src="https://img.shields.io/badge/clarity_%3E_complexity-111111?style=for-the-badge&labelColor=6C63FF" />
+<img src="https://img.shields.io/badge/systems_%3E_features-111111?style=for-the-badge&labelColor=00C2FF" />
+<img src="https://img.shields.io/badge/experience_%3E_noise-111111?style=for-the-badge&labelColor=00D084" /></div>
 ---
 
-🌱 Currently Learning
+✦ Career Direction
 
-Advanced backend architecture
+<div align="center">Software Engineering Internships • Backend Roles • Full-Stack Systems • Open Source
 
-Secure API authentication
-
-Database optimization
-
-Scalable web systems
-
-Full-stack application design
-
-
-
+</div>
 ---
 
-🎯 Career Goals
+✦ Connect
 
-Software Engineering Internship
-
-Backend Development Roles
-
-Full-Stack Engineering
-
-Building impactful products
-
-Open-source contributions
-
-
-
+<div align="center"><img src="https://img.shields.io/badge/GitHub-thasneemsha-0d0d0d?style=for-the-badge&logo=github" /></div>
 ---
 
-📫 Connect With Me
+<div align="center">“Good systems don’t just function — they feel intentional.”
 
-GitHub: https://github.com/thasneemsha
-
-
-
----
-
-⚡ Fun Facts
-
-I enjoy building projects that combine real-world usefulness with technical depth.
-
-Many of my projects are inspired by problems I noticed in daily life.
-
-I love exploring the intersection of backend systems, data, and user experience.
-
-
-
----
-
-> “The best software solves problems people actually face.”
+</div>
