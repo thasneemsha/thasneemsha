@@ -1,25 +1,24 @@
 ✦ Thasneem Mohamed
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:6C63FF,50:00C2FF,75:00D084,100:FFB703&height=200&section=header&text=Thasneem%20Mohamed&fontSize=42&fontColor=ffffff" />🎓 Senior Computer Science Student @ Queens College (CUNY)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:6C63FF,50:00C2FF,75:00D084,100:FFB703&height=200&section=header&text=Thasneem%20Mohamed&fontSize=42&fontColor=ffffff" />🎓 Senior CompSci Student @ Queens College (CUNY)
 
 ⚙️ Backend Systems • APIs • Data Engineering • UX-Aware Development
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+API+Architect;Data+Mining+%7C+Simulation+Developer;UX-aware+System+Designer;Building+real-world+software+systems" /></div>
 ---
 
-✦ Identity Stack (Visual Tags)
-
 <div align="center">     
 
 </div>
----
 
-✦ Tech Logos (Core Stack)
 
-<div align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,nodejs,git,mysql" /></div>
----
+✦ Tech Stack
 
-✦ About Me (Profile Card Style)
+<div align="center"><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,nodejs,git,mysql,figma,webflow" /></div>
+
+___
+
+✦ About Me 
 
 <div style="padding:16px;border-radius:12px;background:linear-gradient(135deg,#0f0f0f,#1a1a1a);border:1px solid #333;">I am a first-generation Indian American Computer Science student who builds software at the intersection of:
 
