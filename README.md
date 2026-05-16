@@ -6,7 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thasneem-mohamed24) 
     [![GitHub](https://img.shields.io/badge/GitHub-thasneemsha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thasneemsha)
-   [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Thasneemsha24@email.com)
+   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Thasneemsha24@email.com)
  
  </div>
 
